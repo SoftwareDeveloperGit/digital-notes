@@ -1,0 +1,1 @@
+export const BaseURL = "https://digital-notes-backend-vbml.onrender.com"
